@@ -35,3 +35,8 @@ https://github.com/user-attachments/assets/dfcd1940-96c0-4a97-a11e-75175d83b7c8
    ```bash
    git clone [https://github.com/TasnimHaque123/OpenGL-Village-Scene-Day-Night.git]
 
+---
+
+## 👨‍💻 Author
+* **Name:** Tasnim Haque Ankhi
+* **Course:** Computer Graphics 
